@@ -1,0 +1,6 @@
+{
+  "name": "Knowhub Intelligence",
+  "description": "Apple-inspired AI Knowledge Base & Research Workspace with real-time grounded synthesis, smart notes, wiki, and knowledge graph intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
